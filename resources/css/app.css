@@ -1,0 +1,89 @@
+#icon{
+    font-size: 2rem;
+     color: cornflowerblue;
+  }
+  
+  #text{
+    font-size: 30px;
+    color: rgb(177, 0, 0);
+  }
+  
+  
+  
+  #textnavbar{
+    font-size: 50px;
+    color: white;
+  }
+  
+  #Gymnav{
+    color: rgb(0, 0, 0);
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  }
+  #bars{
+    background-color: white;
+    
+  }
+  
+  #inicio{
+    color: white;
+    font-size: 20px;
+    background-color: black;
+  }
+  .black{
+      background: rgba(255, 255, 255, 0.487);
+      
+  }
+  #navbar{
+    margin-top: -1px;
+  }
+  
+  /* Section  */
+  #Titulo{
+    font-size: 50px;
+    margin:100px;
+    color: white;
+  }
+  .card{
+    color: white;
+    background: rgba(216, 90, 90, 0.487);
+  }
+  
+  #hr{
+    height: 10px;
+    background-color: white;
+  }
+  
+  #img{
+    width: 5rem;
+  }
+  #Text_relleno{
+    color: white;
+    font-size: 20px;
+  }
+  
+  /* Footer  */
+  
+  #Footer{
+    background-color: rgba(0, 0, 0, 0.05);
+  }
+  
+  
+  /* Compras.js creacion de estilos */
+  
+  #card-group{
+    margin: 50px;
+  }
+  
+  /* Home.js creacion de estilos  */
+  
+  #titulo-Home{
+      font-size: 35px;
+      color: white;
+      margin: 20px;
+  }
+  
+  /* Horarios para el usuario  */
+  
+  #text-horario{
+    color: white;
+  }
